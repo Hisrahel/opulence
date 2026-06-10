@@ -299,6 +299,7 @@ header::after {
 
 .navbar-brand img {
   width: 20%;
+  margin-top: 30px;
 }
 
 /* .navbar-brand::after {
@@ -1867,6 +1868,7 @@ body.booking-body {
   }
   .navbar-brand img {
     width: 22%;
+    margin-top: 0;
   }
   .ioioio {
     display: flex;
@@ -1948,6 +1950,7 @@ body.booking-body {
   }
   .navbar-brand img {
     width: 22%;
+    margin-top: 0;
   }
   .ioioio {
     display: flex;
